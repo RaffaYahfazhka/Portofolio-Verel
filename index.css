@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth;
+}
+
 .ic_verel {
     animation: ic_verel 2s ease 0s 1 normal forwards;
 }
